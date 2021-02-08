@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Kamusi ya Kiswahili
 
-You can use the [editor on GitHub](https://github.com/kazibora/kazibora.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://raw.githubusercontent.com/KaziBora/Kamusi-Mobile/master/screenshots/kamusi-banner.jpg" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Kazibora Privacy Statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Effective date: **February 05, 2020**
 
-```markdown
-Syntax highlighted code block
+Thank you for entrusting Kazibora with your personal information. We consider this a serious responsibility, and we want you to know how we are handling it.
 
-# Header 1
-## Header 2
-### Header 3
+## The Policy in a Nutshell
 
-- Bulleted
-- List
+We only collect the minimum amount of personal information that is necessary to get the job done. We strive to treat it carefully and to be good stewards of your trust.
 
-1. Numbered
-2. List
+Details are below.
+# Information Kazibora collects and why
 
-**Bold** and _Italic_ and `Code` text
+##Information from our mobile apps
 
-[Link](url) and ![Image](src)
-```
+If you happen to install any of our mobile apps, you woul like to favourite what content pleases you for future reference. And if you have something you wish to draft and save then perhaps you would wish to have that next time you install the app. It is for that simple reason we would ask you to login to our app using your mobile number since we believe the mobile number is much easier to work with and besides we wont need a password. This makes it even easier to syncronise your oinformation in other devices that you might be using our app with.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The information we collect about all our users in our apps includes the country, mobile number, name, city, searches. We also collect date and time of installation. 
 
-### Jekyll Themes
+### Why do we collect this?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kazibora/kazibora.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This information helps to improve the user experience in the long run
 
-### Support or Contact
+How we share the information that we collect
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We do not share, sell, rent, or trade personal information with third parties
+
+We do not disclose personal information outside Kazibora, unless such disclosure is necessary to comply with a court order, or to protect the safety and security of our other users.
+
+Your privacy is our first consideration, so personal information inside Kazibora is limited to only those who need access to provide services to you.
+
+We may share some basic User Personal Information with your permission, so we can improve services you use. Examples: Trivia participation 
