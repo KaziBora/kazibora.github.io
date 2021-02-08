@@ -16,7 +16,7 @@ We only collect the minimum amount of personal information that is necessary to 
 Details are below.
 # Information Kazibora collects and why
 
-##Information from our mobile apps
+## Information from our mobile apps
 
 If you happen to install any of our mobile apps, you woul like to favourite what content pleases you for future reference. And if you have something you wish to draft and save then perhaps you would wish to have that next time you install the app. It is for that simple reason we would ask you to login to our app using your mobile number since we believe the mobile number is much easier to work with and besides we wont need a password. This makes it even easier to syncronise your oinformation in other devices that you might be using our app with.
 
